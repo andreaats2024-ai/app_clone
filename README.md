@@ -44,13 +44,6 @@ This project follows **Clean Architecture** principles and **SOLID** patterns, e
 
 ---
 
-## 📸 Screenshots
-| Dashboard | NFC Sentinel | VPN Tunnel | Vault |
-|---|---|---|---|
-| *[Add Image]* | *[Add Image]* | *[Add Image]* | *[Add Image]* |
-
----
-
 ## 🛠️ Installation & Build
 
 1. Clone the repository:
